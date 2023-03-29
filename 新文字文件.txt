@@ -1,8 +1,0 @@
-   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
-   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
-   at SECOM.Forms.QRMessageForm.InvokeSetDataDelegate(String title, String content, OrderTypeEnum type) in C:\Users\user\source\repos\secomwen\SECOM.NPK2021\SECOM.Forms\QRMessageForm.cs:line 37
-   at System.Action`3.Invoke(T1 arg1, T2 arg2, T3 arg3)
-   at SECOM.Utility.MqttManager.QRPreorder(String qrcode, QROrder qrOrder, QRClaims qrClaims, QRType qrType) in C:\Users\user\source\repos\secomwen\SECOM.NPK2021\SECOM.Utility\MQTT\MqttManager.cs:line 259
-   at SECOM.Utility.MqttManager.<QRcode>d__21.MoveNext() in C:\Users\user\source\repos\secomwen\SECOM.NPK2021\SECOM.Utility\MQTT\MqttManager.cs:line 147
-
-C:\Users\user\OneDrive\桌面\
